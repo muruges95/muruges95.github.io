@@ -1,6 +1,6 @@
 # My Resume
 
-## Credits
+Credits to:
 
 [Ahmed Faruk](https://github.com/ahmedfaruk)
 
