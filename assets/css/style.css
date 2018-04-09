@@ -973,6 +973,7 @@ Resume Timeline
 
 .skill-progress {
     position: relative;
+    margin-bottom: 60px
 }
 .progress {
     height: 10px;
